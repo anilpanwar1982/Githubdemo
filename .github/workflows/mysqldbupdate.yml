@@ -8,7 +8,7 @@ on:
     paths:
     - readmeformysqlupdate.md
 env:
-  AZURE_MYSQL_SERVERNAME: vijaymysqldbserver.mysql.database.azure.com 
+  AZURE_MYSQL_SERVERNAME: Anilmysqldbserver.mysql.database.azure.com 
 
 jobs:
   mysqlupdate:
